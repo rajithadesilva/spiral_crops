@@ -1,5 +1,5 @@
 # Spiral Crops for Agri-Robots
-This repository contains a collection of simulations, navigation pipelines optimesed for Spiral Field loyout that facilitates efficient robot navigation.
+This repository contains a collection of simulations, navigation pipelines optimised for Spiral Field loyout that facilitates efficient robot navigation.
 
 **We are in the process of finalising this repository. For now please refer below links to access individual sub-components of our pipeline.**
 - [Crop Row Detection](https://github.com/lakshanlavan/Crop_WPNet)
